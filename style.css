@@ -1,0 +1,63 @@
+
+body{
+    color: blanchedalmond;
+    background-color: #202020;
+}
+.container{
+    position: relative;
+    background-color: #39555a;
+    width: fit-content;
+    height: fit-content;
+    margin: 50px 200px; 
+}
+.img{
+    width: 100%;
+    height: 250px;
+}
+.top{
+    text-align: center;
+    
+}
+.top li{
+    list-style: none;
+    display: inline-block;
+    line-height: 100px;
+    
+    }
+.top li a{
+    text-decoration: none;
+    padding: 0 20px;
+    color: black;
+
+}
+.right{
+    float: right;
+    width: 80%;
+}
+.left{
+    float: left;
+    width: 20%;
+}
+
+.r1{
+    float: left;
+    width: 50%;
+}
+.r2{
+    float: right;
+    width: 50%;
+}
+.foot{
+
+    text-align: center;
+}
+
+ul li a{
+    color: white;
+}
+.top li a{
+    color: white;
+}
+nav{
+    background-color: grey;
+} 
